@@ -1,5 +1,7 @@
-# Datenshi Seasonal Background
+<h1 align="center">Datenshi Seasonal Background</h1>
+<img src="https://cdn.discordapp.com/attachments/874910377937354763/892767466990751764/SD3AR7K1.png">
 This repo is for lists of our seasonal background
+
 
 # Persistent
 
