@@ -1,5 +1,5 @@
 <h1 align="center">Datenshi Seasonal Background</h1>
-<img src="https://cdn.discordapp.com/attachments/874910377937354763/892767466990751764/SD3AR7K1.png">
+<img src="https://cdn.discordapp.com/attachments/728581754398572546/892768633204375622/screenshot222.jpg"> <img src="https://cdn.discordapp.com/attachments/728581754398572546/892768743103557673/unknown.png">
 This repo is for lists of our seasonal background
 
 
