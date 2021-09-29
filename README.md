@@ -1,9 +1,9 @@
 # Datenshi Seasonal Background
 This repo is for lists of our seasonal background
 
-# Current
+# Persistent
 
-| PREVIEW | AUTHOR | SOURCE | DESCRIPTION |
+| Preview | Author | Source | Description |
 | :-: | :-: | :-: | :-: |
 | <img src="https://assets.datenshi.pw/seasonal/default/20210715_syaro.png" width=128 height=128> | Rei | - | Birthday posting |
 | <img src="https://assets.datenshi.pw/seasonal/default/jqmcf1mru1v51.jpg" width=128 height=128> | troke | weibo | Wangy banget mmppshhh uwogggg |
