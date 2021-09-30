@@ -13,4 +13,3 @@ This repo is for lists of our seasonal background
 | <img src="https://assets.datenshi.pw/seasonal/default/rankomanko.png" width=192 height=128> | Rei | - | Flexing waifu |
 | <img src="https://assets.datenshi.pw/seasonal/default/eriri.jpg" width=192 height=128> | troke | zerochan | Flexing waifu |
 | <img src="https://assets.datenshi.pw/seasonal/default/billing_warnet.jpg" width=192 height=128> | troke | warnet indonesia | nostalgia bocil warnet |
-| <img src="https://assets.datenshi.pw/seasonal/default/hu_tao_birthday.jpg" width=192 height=128> | troke | zerochan | Wangyyyyyyyyyyy banget hutao mpppsh ahhhh |
