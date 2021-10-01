@@ -15,7 +15,7 @@ This repo is for lists of our seasonal background
 | <img src="https://assets.datenshi.pw/seasonal/default/billing_warnet.jpg" width=192 height=128> | troke | warnet indonesia | nostalgia bocil warnet |
 
 
-# Hallowen 2021
+# [Hallowen 2021](https://datenshi.pw/datenshi-seasonal-halloween-submission/)
 
 | Preview | Author | Source | Description |
 | :-: | :-: | :-: | :-: |
