@@ -20,7 +20,7 @@ This repo is for lists of our seasonal background
 | Preview | Author | Source | Description |
 | :-: | :-: | :-: | :-: |
 | <img src="https://assets.datenshi.pw/seasonal/halloween/alice_mana.jpg" width=192 height=128> | [Alice Mana](https://osu.datenshi.pw/u/240) | [twitter](https://twitter.com/AmongUsGame) | - |
-| <img src="https://assets.datenshi.pw/seasonal/halloween/amamiya_kokoro.png" width=192 height=128> | [Amamiya Kokoro](https://osu.datenshi.pw/u/305) | - | Sweet tale of a bad dream, the current dystopia we live in. |
+| <img src="https://assets.datenshi.pw/seasonal/halloween/amamiya_kokoro.png" width=192 height=128> | [Amamiya Kokoro](https://osu.datenshi.pw/u/305) | [twitter](https://twitter.com/_COQ/status/1444273252222734338?s=20) | Sweet tale of a bad dream, the current dystopia we live in. |
 | <img src="https://assets.datenshi.pw/seasonal/halloween/etoyo.png" width=192 height=128> | [etoyo](https://osu.datenshi.pw/u/642) | The Idolm@ster Cinderella Girls: Starlight Stage | Halloween themed - good looking artwork - it's from a good game :) |
 | <img src="https://assets.datenshi.pw/seasonal/halloween/kucing-oren.png" width=192 height=128> | [Kucing-Oren](https://osu.datenshi.pw/u/848?mode=0) | [twitter](https://twitter.com/i/web/status/920301933004386305) | Lumayan Wangy |
 | <img src="https://assets.datenshi.pw/seasonal/halloween/my_angel_rushia.png" width=192 height=128> | [My Angel Rushia](https://osu.datenshi.pw/u/62?mode=3) | [pixiv](https://www.pixiv.net/en/artworks/85375018) | HAPPY HALLOWEEN~~ |
