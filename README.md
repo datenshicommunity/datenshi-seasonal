@@ -26,3 +26,15 @@ This repo is for lists of our seasonal background
 | <img src="https://assets.datenshi.pw/seasonal/halloween/my_angel_rushia.png" width=192 height=128> | [My Angel Rushia](https://osu.datenshi.pw/u/62?mode=3) | [pixiv](https://www.pixiv.net/en/artworks/85375018) | HAPPY HALLOWEEN~~ |
 | <img src="https://assets.datenshi.pw/seasonal/halloween/pikri.png" width=192 height=128> | [ITSUKIlovePIKRI](https://osu.datenshi.pw/u/1200?mode=0) | - | krna bagus |
 | <img src="https://assets.datenshi.pw/seasonal/halloween/usada_pekora.png" width=192 height=128> | [Usada Pekora](https://osu.datenshi.pw/u/73?mode=3) | [AlphaCoders](https://wall.alphacoders.com/big.php?i=697424) | - |
+
+# [Christmas 2021](https://datenshi.pw/datenshi-seasonal-christmas-submissions/)
+
+| Preview | Author | Source | Description |
+| :-: | :-: | :-: | :-: |
+| tbd | tbd | tbd | tbd |
+| tbd | tbd | tbd | tbd |
+| tbd | tbd | tbd | tbd |
+| tbd | tbd | tbd | tbd |
+| tbd | tbd | tbd | tbd |
+| tbd | tbd | tbd | tbd |
+| tbd | tbd | tbd | tbd |
