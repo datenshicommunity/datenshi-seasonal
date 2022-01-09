@@ -31,10 +31,9 @@ This repo is for lists of our seasonal background
 
 | Preview | Author | Source | Description |
 | :-: | :-: | :-: | :-: |
-| tbd | tbd | tbd | tbd |
-| tbd | tbd | tbd | tbd |
-| tbd | tbd | tbd | tbd |
-| tbd | tbd | tbd | tbd |
-| tbd | tbd | tbd | tbd |
-| tbd | tbd | tbd | tbd |
-| tbd | tbd | tbd | tbd |
+| <img src="https://assets.datenshi.pw/seasonal/christmas/1-peko.jpg" width=192 height=128> | [Peko](https://osu.datenshi.pw/u/73?mode=3) | WallpaperAccess | "coz now is december +submission too, so i follow the content of this form" |
+| <img src="https://assets.datenshi.pw/seasonal/christmas/2-mizuki.jpg" width=192 height=128> | [Mizuki](https://osu.datenshi.pw/u/96?mode=0) | [pixiv](https://www.pixiv.net/en/artworks/40397607) | "keren" |
+| <img src="https://assets.datenshi.pw/seasonal/christmas/3-shido.jpg" width=192 height=128> | [Nanashi Mumei](https://osu.datenshi.pw/u/71) | WallpaperCave | "disuruh troke" |
+| <img src="https://assets.datenshi.pw/seasonal/christmas/4-kucing-oren.png" width=192 height=128> | [Kucing-Oren](https://osu.datenshi.pw/u/848?mode=0) | [pixiv](https://www.pixiv.net/en/artworks/86862579) | "kalo gak submit nanti di ban sama om troke" |
+| <img src="https://assets.datenshi.pw/seasonal/christmas/5-sordache.jpg" width=192 height=128> | sordache#6353 | pinterest | "i saw the announce while playing osu so i thought about this Background i saw on twitter i found the link to the pintererest. Im convince it's the perfect one" |
+| <img src="https://assets.datenshi.pw/seasonal/christmas/6-souljabaka.jpg" width=192 height=128> | [souljabaka](https://osu.datenshi.pw/u/1582?mode=0) | [pixiv](https://www.pixiv.net/en/artworks/78468574) | "bagus soalnya ndak nsfw" |
